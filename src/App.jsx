@@ -20,6 +20,7 @@ function App() {
      children : [
      {index:true , element : <Home />},
      {path:'home' , element : <Home />},
+     {path:'MyMovie-ReactWebsite' , element : <Home />},
      {path:'tv' , element : <Tv />},
      {path:'movies' , element : <Movies />},
      {path:'itemDetails/:id/:media' , element : <ItemDetails />},
