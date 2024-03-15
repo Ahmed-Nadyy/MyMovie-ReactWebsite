@@ -1,0 +1,19 @@
+* {
+  font-family: "Montserrat Alternates", sans-serif;
+  color: #fff;
+  background-color: #131722;
+}
+
+
+body {
+    font-family: "Montserrat Alternates", sans-serif;
+    color: #fff;
+    background-color: #131722;
+}
+
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
