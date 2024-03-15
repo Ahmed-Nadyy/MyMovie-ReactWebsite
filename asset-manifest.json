@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MyMovie-ReactWebsite/home/static/css/main.0bbe3046.css",
-    "main.js": "/MyMovie-ReactWebsite/home/static/js/main.092bbd60.js",
-    "static/media/2.webp": "/MyMovie-ReactWebsite/home/static/media/2.eb5e2899315f131fed94.webp",
-    "static/media/1.webp": "/MyMovie-ReactWebsite/home/static/media/1.2ee86a8781c80d2d7030.webp",
-    "index.html": "/MyMovie-ReactWebsite/home/index.html",
-    "main.0bbe3046.css.map": "/MyMovie-ReactWebsite/home/static/css/main.0bbe3046.css.map",
-    "main.092bbd60.js.map": "/MyMovie-ReactWebsite/home/static/js/main.092bbd60.js.map"
+    "main.css": "/MyMovie-ReactWebsite/static/css/main.0bbe3046.css",
+    "main.js": "/MyMovie-ReactWebsite/static/js/main.288579ba.js",
+    "static/media/2.webp": "/MyMovie-ReactWebsite/static/media/2.eb5e2899315f131fed94.webp",
+    "static/media/1.webp": "/MyMovie-ReactWebsite/static/media/1.2ee86a8781c80d2d7030.webp",
+    "index.html": "/MyMovie-ReactWebsite/index.html",
+    "main.0bbe3046.css.map": "/MyMovie-ReactWebsite/static/css/main.0bbe3046.css.map",
+    "main.288579ba.js.map": "/MyMovie-ReactWebsite/static/js/main.288579ba.js.map"
   },
   "entrypoints": [
     "static/css/main.0bbe3046.css",
-    "static/js/main.092bbd60.js"
+    "static/js/main.288579ba.js"
   ]
 }
